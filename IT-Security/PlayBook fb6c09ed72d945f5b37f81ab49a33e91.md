@@ -514,7 +514,6 @@ Cleanup -Verbundugsdatenlöschen
 ## Post-Exploitation
 
 - Angriffe per Datentransfer und Lateral Movement
-
 - Rechteausweitung mit Linux Privilege Escalation
 - Privilege Escalation Basic Pentesting 2
 - Kritische Schwachstellen in Microsoft Windows finden
